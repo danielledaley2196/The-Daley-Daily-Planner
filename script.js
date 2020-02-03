@@ -28,7 +28,7 @@ let thisHour = $(`.hour-${hourArea.format("HH")}`);
 let needToDo = thisHour.value;
 $(".saveBtn").on("click", function() {
     $("<textarea>").append(needToDo);
-    localStorage.setItem("toDoList", needToDo);
+    window.localStorage.setItem("toDoList", JSON.stringify(needToDo));
 });
 function timeChange() {
         if (0 > theHour.diff(moment().thisHour)) {
