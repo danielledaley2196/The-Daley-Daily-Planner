@@ -5,8 +5,10 @@ This is a daily planner that works for people with all sorts of busness hours in
 
 ## Links
 [Git Repo](https://github.com/danielledaley2196/The-Daley-Daily-Planner)
+<br />
 [Live Application](https://danielledaley2196.github.io/The-Daley-Daily-Planner/)
 
 ## Screenshots
 ![screenshot](/images.Planner_1)
+<br />
 ![screenshot](/images.Planner_2)
