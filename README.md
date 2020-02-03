@@ -9,6 +9,6 @@ This is a daily planner that works for people with all sorts of busness hours in
 [Live Application](https://danielledaley2196.github.io/The-Daley-Daily-Planner/)
 
 ## Screenshots
-![screenshot](/images.Planner_1)
+![screenshot](./images/Planner_1.png)
 <br />
-![screenshot](/images.Planner_2)
+![screenshot2](./images./Planner_2.png)
